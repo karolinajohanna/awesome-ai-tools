@@ -235,7 +235,8 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [VALL-E X](https://vallex-demo.github.io/) - A cross-lingual neural codec language model for cross-lingual speech synthesis.
 - [TorToiSe](https://github.com/neonbjb/tortoise-tts) - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
 - [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
-
+  [Soffos](https://www.soffos.ai/) - Soffos Generative AI platform is a revolutionary solution that empowers software developers as well as everyday users to effortlessly create AI solutions.
+  
 ### Music
 
 - [Harmonai](https://www.harmonai.org/) - We are a community-driven organization releasing open-source generative audio tools to make music production more accessible and fun for everyone.
